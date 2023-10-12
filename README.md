@@ -9,7 +9,7 @@ https://www.linkedin.com/in/ömer-kaan-çalişkan-b62b62163 - Ömer Kaan ÇALIŞ
 https://www.instagram.com/bilgesultansahin - Bilge Sultan ŞAHİN --> Sound Designer and Story Creator               
 https://www.instagram.com/ozankirlaroglu - Ozan KIRLAROĞLU --> Storical 2D Designer and Level Planner               
 
-Note: When you open the project with the unity editor, first open the scene named "StartPage" and then set the Resolution to 1920x1080. 
+Note: When you open the project with the unity editor, first open the scene named "StartPage" and then set the Resolution to 1920x1080.               
 Note: This project is the first time 3D game-making experience for 6 people working on the project. Therefore, undesirable bugs remained in the game when the project was no longer taken care of.             
 Note: Except for the Soundtrack music used in this project, all the remaining assets belong to us. 
 
