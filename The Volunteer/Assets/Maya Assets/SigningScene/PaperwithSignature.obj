@@ -1,0 +1,20 @@
+# This file uses centimeters as units for non-parametric coordinates.
+
+mtllib iş.mtl
+g default
+v -82.745966 57.483195 62.546834
+v -82.745966 57.483195 45.723928
+v -60.470449 57.483195 62.546834
+v -60.548370 57.483195 45.723928
+vt 0.009294 0.981619
+vt 1.012970 0.981559
+vt 0.009234 -0.011451
+vt 1.012910 -0.008038
+vn 0.000000 1.000000 0.000000
+vn 0.000000 1.000000 0.000000
+vn 0.000000 1.000000 0.000000
+vn 0.000000 1.000000 0.000000
+s off
+g pasted__pasted__pPlane1 pasted__group group
+usemtl pasted__pasted__lambert2SG
+f 1/1/1 3/3/2 4/4/3 2/2/4
